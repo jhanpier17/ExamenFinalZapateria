@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/UI/Screens/home.dart';
 import 'package:flutter_application_1/UI/Screens/botonink.dart';
-import 'package:flutter_application_1/UI/Widgets/filas.dart';
 
 class Ventana extends StatelessWidget {
   @override
